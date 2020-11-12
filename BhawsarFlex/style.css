@@ -632,7 +632,7 @@ img {
   margin: auto;
   display: block;
   width: 80%;
-  height: 500px;
+  height: auto;
   max-width: 500px;
 }
 
